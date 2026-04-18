@@ -4,8 +4,7 @@
 > Google Gemini 2.5 Flash Image(나노 바나나)를 활용한 웹 기반 AI 이미지 변환 스튜디오입니다.
 > 학교 행사·체험 부스에서 즉석 인화하여 배부할 수 있도록 **13:10 인쇄 비율**로 결과물을 생성합니다.
 
-[![Live (Netlify)](https://img.shields.io/badge/Live-Netlify-brightgreen)](https://ai-style-transfer-studio.netlify.app/)
-[![Live (Vercel)](https://img.shields.io/badge/Live-Vercel-black)](https://ai-style-transfer-1310-studio.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-black?logo=vercel)](https://ai-style-transfer-1310-studio.vercel.app/)
 [![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash%20Image-blue)](https://ai.google.dev/gemini-api/docs/image-generation)
 [![BYOK](https://img.shields.io/badge/Bring%20Your%20Own-API%20Key-orange)](https://aistudio.google.com/apikey)
 
@@ -28,10 +27,7 @@
 
 ## 🚀 바로 사용하기
 
-| 호스팅 | URL |
-|--------|-----|
-| 🟢 Netlify | [ai-style-transfer-studio.netlify.app](https://ai-style-transfer-studio.netlify.app/) |
-| ⚫ Vercel | [ai-style-transfer-1310-studio.vercel.app](https://ai-style-transfer-1310-studio.vercel.app/) |
+👉 **[https://ai-style-transfer-1310-studio.vercel.app/](https://ai-style-transfer-1310-studio.vercel.app/)**
 
 ### 사용 단계
 1. **사진 업로드** - 얼굴이 잘 보이는 선명한 사진 한 장 선택
@@ -54,7 +50,7 @@
 | **타이포그래피** | Pretendard, Nanum Myeongjo |
 | **AI 모델** | Google **Gemini 2.5 Flash Image** (`gemini-2.5-flash-image`) |
 | **압축 다운로드** | [JSZip](https://stuk.github.io/jszip/) 3.10.1 |
-| **호스팅** | Netlify · Vercel (정적 웹사이트) |
+| **호스팅** | Vercel (정적 웹사이트, GitHub 연동 자동 배포) |
 
 > 💡 빌드 도구·서버·프레임워크 없음 — `index.html` 한 파일이 전부입니다.
 
@@ -190,4 +186,4 @@ MIT License - 자유롭게 사용·수정·재배포 가능합니다.
 
 ---
 
-> 🎨 **지금 바로 [AI 그림체 변신 스튜디오](https://ai-style-transfer-studio.netlify.app/)에서 세상에 단 하나뿐인 당신의 캐릭터를 만나보세요!**
+> 🎨 **지금 바로 [AI 그림체 변신 스튜디오](https://ai-style-transfer-1310-studio.vercel.app/)에서 세상에 단 하나뿐인 당신의 캐릭터를 만나보세요!**
