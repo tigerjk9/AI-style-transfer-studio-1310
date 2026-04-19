@@ -149,6 +149,17 @@ AI-style-transfer-studio-1310/
 
 ---
 
+## 📝 변경 이력
+
+| 날짜 | 내용 |
+|------|------|
+| 2026-04-19 | 📚 CLAUDE.md 추가 (개발 컨텍스트) |
+| 2026-04-19 | Vercel 단일 호스팅 전환 (`ai-style-transfer-1310-studio.vercel.app`) + Netlify 호스팅 종료 + README 풀 갱신 |
+| 2026-04-19 | Gemini 모델명 GA 전환: `gemini-2.5-flash-image-preview` → `gemini-2.5-flash-image` (404 오류 해결) |
+| 이전 | 초기 출시 (6가지 그림체 + 13:10 인쇄용 카드 + ZIP 다운로드 + 다중 스타일 동시 선택) |
+
+---
+
 ## 🌟 향후 개선 아이디어
 
 - [ ] 사진 업로드 전 얼굴 자동 검출 + 크롭 가이드
